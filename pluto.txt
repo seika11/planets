@@ -1,3 +1,3 @@
-Pluto is a dwarf planet
+local added top sentence Pluto is a dwarf planet
 added another line
 Another change is added
